@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/unsdsn/world-happiness
+https://www.kaggle.com/datasets/twinkle0705/mental-health-and-suicide-rates
